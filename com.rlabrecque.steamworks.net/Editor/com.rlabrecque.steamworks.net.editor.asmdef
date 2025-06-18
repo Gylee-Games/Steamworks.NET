@@ -12,7 +12,9 @@
     "overrideReferences": true,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
+    "defineConstraints": [
+        "UNITY_STEAM"
+    ],
     "versionDefines": [],
     "noEngineReferences": false
 }

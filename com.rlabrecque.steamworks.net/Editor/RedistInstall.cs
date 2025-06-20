@@ -12,7 +12,7 @@ using System.Collections.Generic;
 public class RedistInstall {
 	static RedistInstall() {
 		WriteSteamAppIdTxtFile();
-		AddDefineSymbols();
+		//AddDefineSymbols();
 		CheckForOldDlls();
 	}
 
